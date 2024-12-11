@@ -1,0 +1,43 @@
+﻿<Window x:Class="ToolBar.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ToolBar"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <ToolBar Height="26" Name="toolBar1" Width="200"
+HorizontalAlignment="Left" >
+            <Button Height="23" Name="button1" Width="23"
+Command="ApplicationCommands.Copy" ToolTip="Copy">
+                <Image Width="16" Height="16"
+HorizontalAlignment="Left" />
+            </Button>
+            <Button Height="23" Name="button2" Width="23"
+Command="ApplicationCommands.Cut" ToolTip="Cut">
+                <Image Width="16" Height="16"
+HorizontalAlignment="Left" />
+            </Button>
+            <Button Height="23" Name="button3" Width="23"
+Command="ApplicationCommands.Paste" ToolTip="Dán văn bản">
+                <Image Width="16" Height="16"
+HorizontalAlignment="Left" />
+            </Button>
+            <Separator/>
+            <Button Height="23" Name="button4" ToolTip="Increase size of font" Width="23" >
+                <Image Width="16" Height="16"
+HorizontalAlignment="Left" />
+            </Button>
+            <Button Height="23" Name="button5" ToolTip="Decrease size of
+font" Width="23" >
+                <Image Width="16" Height="16"
+HorizontalAlignment="Left" />
+            </Button>
+        </ToolBar>
+        <!--Khai báo hộp soạn thảo-->
+        <TextBox Name="textBox" TextWrapping="Wrap" Margin="2">
+            Hello World!
+        </TextBox>
+    </StackPanel>
+</Window>

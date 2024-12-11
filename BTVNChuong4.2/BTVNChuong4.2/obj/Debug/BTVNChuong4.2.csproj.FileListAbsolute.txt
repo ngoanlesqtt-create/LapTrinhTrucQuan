@@ -1,0 +1,10 @@
+D:\BaiTapLapTrinhTrucQuan\BTVNChuong4.2\BTVNChuong4.2\bin\Debug\BTVNChuong4.2.exe.config
+D:\BaiTapLapTrinhTrucQuan\BTVNChuong4.2\BTVNChuong4.2\bin\Debug\BTVNChuong4.2.exe
+D:\BaiTapLapTrinhTrucQuan\BTVNChuong4.2\BTVNChuong4.2\bin\Debug\BTVNChuong4.2.pdb
+D:\BaiTapLapTrinhTrucQuan\BTVNChuong4.2\BTVNChuong4.2\obj\Debug\BTVNChuong4.2.csproj.AssemblyReference.cache
+D:\BaiTapLapTrinhTrucQuan\BTVNChuong4.2\BTVNChuong4.2\obj\Debug\BTVNChuong4._2.Form1.resources
+D:\BaiTapLapTrinhTrucQuan\BTVNChuong4.2\BTVNChuong4.2\obj\Debug\BTVNChuong4._2.Properties.Resources.resources
+D:\BaiTapLapTrinhTrucQuan\BTVNChuong4.2\BTVNChuong4.2\obj\Debug\BTVNChuong4.2.csproj.GenerateResource.cache
+D:\BaiTapLapTrinhTrucQuan\BTVNChuong4.2\BTVNChuong4.2\obj\Debug\BTVNChuong4.2.csproj.CoreCompileInputs.cache
+D:\BaiTapLapTrinhTrucQuan\BTVNChuong4.2\BTVNChuong4.2\obj\Debug\BTVNChuong4.2.exe
+D:\BaiTapLapTrinhTrucQuan\BTVNChuong4.2\BTVNChuong4.2\obj\Debug\BTVNChuong4.2.pdb

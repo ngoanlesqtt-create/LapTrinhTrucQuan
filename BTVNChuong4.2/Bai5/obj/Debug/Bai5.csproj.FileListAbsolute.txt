@@ -1,0 +1,10 @@
+D:\BaiTapLapTrinhTrucQuan\BTVNChuong4.2\Bai5\bin\Debug\Bai5.exe.config
+D:\BaiTapLapTrinhTrucQuan\BTVNChuong4.2\Bai5\bin\Debug\Bai5.exe
+D:\BaiTapLapTrinhTrucQuan\BTVNChuong4.2\Bai5\bin\Debug\Bai5.pdb
+D:\BaiTapLapTrinhTrucQuan\BTVNChuong4.2\Bai5\obj\Debug\Bai5.csproj.AssemblyReference.cache
+D:\BaiTapLapTrinhTrucQuan\BTVNChuong4.2\Bai5\obj\Debug\Bai5.Form1.resources
+D:\BaiTapLapTrinhTrucQuan\BTVNChuong4.2\Bai5\obj\Debug\Bai5.Properties.Resources.resources
+D:\BaiTapLapTrinhTrucQuan\BTVNChuong4.2\Bai5\obj\Debug\Bai5.csproj.GenerateResource.cache
+D:\BaiTapLapTrinhTrucQuan\BTVNChuong4.2\Bai5\obj\Debug\Bai5.csproj.CoreCompileInputs.cache
+D:\BaiTapLapTrinhTrucQuan\BTVNChuong4.2\Bai5\obj\Debug\Bai5.exe
+D:\BaiTapLapTrinhTrucQuan\BTVNChuong4.2\Bai5\obj\Debug\Bai5.pdb

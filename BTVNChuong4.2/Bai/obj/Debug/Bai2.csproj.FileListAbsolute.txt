@@ -1,0 +1,10 @@
+D:\BaiTapLapTrinhTrucQuan\BTVNChuong4.2\Bai\bin\Debug\Bai.exe.config
+D:\BaiTapLapTrinhTrucQuan\BTVNChuong4.2\Bai\bin\Debug\Bai.exe
+D:\BaiTapLapTrinhTrucQuan\BTVNChuong4.2\Bai\bin\Debug\Bai.pdb
+D:\BaiTapLapTrinhTrucQuan\BTVNChuong4.2\Bai\obj\Debug\Bai2.csproj.AssemblyReference.cache
+D:\BaiTapLapTrinhTrucQuan\BTVNChuong4.2\Bai\obj\Debug\Bai.Form1.resources
+D:\BaiTapLapTrinhTrucQuan\BTVNChuong4.2\Bai\obj\Debug\Bai.Properties.Resources.resources
+D:\BaiTapLapTrinhTrucQuan\BTVNChuong4.2\Bai\obj\Debug\Bai2.csproj.GenerateResource.cache
+D:\BaiTapLapTrinhTrucQuan\BTVNChuong4.2\Bai\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+D:\BaiTapLapTrinhTrucQuan\BTVNChuong4.2\Bai\obj\Debug\Bai.exe
+D:\BaiTapLapTrinhTrucQuan\BTVNChuong4.2\Bai\obj\Debug\Bai.pdb

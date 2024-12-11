@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BaiTapLapTrinhTrucQuan\\MyFirstForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E67DD166-28A9-45C4-A2B2-F4A12BB24887}|MyFirstForm.csproj|d:\\baitaplaptrinhtrucquan\\myfirstform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E67DD166-28A9-45C4-A2B2-F4A12BB24887}|MyFirstForm.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67DD166-28A9-45C4-A2B2-F4A12BB24887}|MyFirstForm.csproj|d:\\baitaplaptrinhtrucquan\\myfirstform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67DD166-28A9-45C4-A2B2-F4A12BB24887}|MyFirstForm.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67DD166-28A9-45C4-A2B2-F4A12BB24887}|MyFirstForm.csproj|d:\\baitaplaptrinhtrucquan\\myfirstform\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{E67DD166-28A9-45C4-A2B2-F4A12BB24887}|MyFirstForm.csproj|solutionrelative:properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67DD166-28A9-45C4-A2B2-F4A12BB24887}|MyFirstForm.csproj|d:\\baitaplaptrinhtrucquan\\myfirstform\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67DD166-28A9-45C4-A2B2-F4A12BB24887}|MyFirstForm.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MyFirstForm||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67DD166-28A9-45C4-A2B2-F4A12BB24887}|MyFirstForm.csproj|d:\\baitaplaptrinhtrucquan\\myfirstform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67DD166-28A9-45C4-A2B2-F4A12BB24887}|MyFirstForm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67DD166-28A9-45C4-A2B2-F4A12BB24887}|MyFirstForm.csproj|d:\\baitaplaptrinhtrucquan\\myfirstform\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "D:\\BaiTapLapTrinhTrucQuan\\MyFirstForm\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Properties\\Settings.settings",
+              "ToolTip": "D:\\BaiTapLapTrinhTrucQuan\\MyFirstForm\\Properties\\Settings.settings",
+              "RelativeToolTip": "Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-09-25T06:48:38.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\BaiTapLapTrinhTrucQuan\\MyFirstForm\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\BaiTapLapTrinhTrucQuan\\MyFirstForm\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T06:48:37.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyFirstForm",
+              "DocumentMoniker": "D:\\BaiTapLapTrinhTrucQuan\\MyFirstForm\\MyFirstForm.csproj",
+              "RelativeDocumentMoniker": "MyFirstForm.csproj",
+              "ToolTip": "D:\\BaiTapLapTrinhTrucQuan\\MyFirstForm\\MyFirstForm.csproj",
+              "RelativeToolTip": "MyFirstForm.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-25T06:48:21.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\BaiTapLapTrinhTrucQuan\\MyFirstForm\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\BaiTapLapTrinhTrucQuan\\MyFirstForm\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T06:47:53.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\BaiTapLapTrinhTrucQuan\\MyFirstForm\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\BaiTapLapTrinhTrucQuan\\MyFirstForm\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T06:46:07.198Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BaiTapLapTrinhTrucQuan\\MyFirstForm\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\BaiTapLapTrinhTrucQuan\\MyFirstForm\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T06:46:27.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
